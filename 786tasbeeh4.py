@@ -3,7 +3,7 @@ import json
 from datetime import datetime, timedelta
 
 # Title and Instructions
-st.title("📿 Minimal Tasbeeh Tracker")
+st.title("📿 Online Zikr Count Tracker")
 st.write("Track your daily Zikr effortlessly. Minimal design, mobile-friendly!")
 
 # Predefined Zikr List
